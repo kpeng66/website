@@ -15,11 +15,11 @@ const Works = () => {
 					<div className="works-body">
 						<div className="work">
 							<img
-								src="./facebook.png"
+								src="./splashtop.png"
 								alt="facebook"
 								className="work-image"
 							/>
-							<div className="work-title">Splashtop Inc.</div>
+							<div className="work-title">Splashtop</div>
 							<div className="work-subtitle">
 								Data Engineer
 							</div>
@@ -28,7 +28,7 @@ const Works = () => {
 
 						<div className="work">
 							<img
-								src="./twitter.png"
+								src="./salesforce.png"
 								alt="twitter"
 								className="work-image"
 							/>
@@ -37,6 +37,30 @@ const Works = () => {
 								Data Analyst
 							</div>
 							<div className="work-duration">Aug 2022 - Mar 2023</div>
+						</div>
+						<div className="work">
+							<img
+								src="./splashtop.png"
+								alt="twitter"
+								className="work-image"
+							/>
+							<div className="work-title">Splashtop</div>
+							<div className="work-subtitle">
+								R&D Intern - SSW
+							</div>
+							<div className="work-duration">Nov 2021 - Jun 2022</div>
+						</div>
+						<div className="work">
+							<img
+								src="./salesforce.png"
+								alt="twitter"
+								className="work-image"
+							/>
+							<div className="work-title">Salesforce</div>
+							<div className="work-subtitle">
+								Data Analyst
+							</div>
+							<div className="work-duration">Jun 2021 - Sept 2022</div>
 						</div>
 					</div>
 				}

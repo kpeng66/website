@@ -39,21 +39,26 @@ const Projects = () => {
 					</div>
 					<div className="projects-container">
 						<div className="title projects-title">
-							Things I’ve made trying to put my dent in the
-							universe.
+							About me.
 						</div>
 
 						<div className="subtitle projects-subtitle">
-							I've worked on a variety of projects over the years
-							and I'm proud of the progress I've made. Many of
-							these projects are open-source and available for
-							others to explore and contribute to. If you're
-							interested in any of the projects I've worked on,
-							please feel free to check out the code and suggest
-							any improvements or enhancements you might have in
-							mind. Collaborating with others is a great way to
-							learn and grow, and I'm always open to new ideas and
-							feedback.
+						Hey, I’m Kevin. I am in school studying for my M.S. in Computer Science at UT Austin. I also hold a B.S. in Mathematics of Computation from UCLA.
+						<br></br>
+						<br></br>
+
+						I currently work at Splashtop as a data engineer supporting Product and GTM teams. I previously worked as a data analyst at Salesforce.
+
+						<br></br>
+						<br></br>
+						
+						Recently, I've found myself learning more about clean tech, mathematics, and start-ups.
+						<br></br>
+						<br></br>
+
+						I grew up in the Bay Area. In my free time, I'm playing tennis, training muay thai, and snowboarding. I like to write and share my thoughts through LinkedIn posts.
+
+
 						</div>
 
 						<div className="projects-list">

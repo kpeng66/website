@@ -1,9 +1,9 @@
 const INFO = {
 	main: {
-		title: "Software Engineer Portfolio",
+		title: "Website",
 		name: "Kevin Peng",
 		email: "kpeng66@gmail.com",
-		logo: "../logo.png",
+		logo: "../me.jpg",
 	},
 
 	socials: {
@@ -12,9 +12,9 @@ const INFO = {
 	},
 
 	homepage: {
-		title: "Full-stack software engineer.",
+		title: "I'm Kevin, a software engineer living in the SF Bay Area.",
 		description:
-			"I am a software engineer with extensive data engineering experience. I have experience building scalable, secure, and reliable web applications with Next.js, React, and Django. I'm deeply passionate about the clean energy and climate tech industry.",
+			"I build full-stack web applications and end-to-end AI models. Currently, I am studying at UT Austin for my M.S. in Computer Science and working as a data engineer at Splashtop.",
 	},
 
 	about: {
@@ -25,48 +25,39 @@ const INFO = {
 
 	projects: [
 		{
-			title: "Project 1",
+			title: "Pintos - Multithreading",
 			description:
-				"Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
-			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png",
+				"An elegant multithreading system that supports priority scheduling, donation, and more.",
+			logo: "../multithreading.png",
 			linkText: "View Project",
-			link: "https://github.com",
+			link: "https://github.com/kpeng66/cs380l/tree/main/project-1",
 		},
 
 		{
-			title: "Project 2",
+			title: "Wish Shell",
 			description:
-				"Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
-			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/python/python.png",
+				"A simple Unix shell with a focus on redirection, parallel commands, batch processing, and more.",
+			logo: "../shell.webp",
 			linkText: "View Project",
-			link: "https://github.com",
+			link: "https://github.com/kpeng66/cs380l/tree/main/project-0/aos_wish_shell",
 		},
 
 		{
-			title: "Project 3",
+			title: "Denden Arcade MVP",
 			description:
-				"Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
-			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/html/html.png",
+				"A multiplayer arcade platform for friends to play short, competitive minigames.",
+			logo: "../denden.webp",
 			linkText: "View Project",
-			link: "https://github.com",
+			link: "https://github.com/kpeng66/denden-arcade",
 		},
 
 		{
-			title: "Project 4",
+			title: "Lead Conversion Model",
 			description:
-				"Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
-			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png",
+				"An end-to-end machine learning model that predicts lead conversion.",
+			logo: "../ml.webp",
 			linkText: "View Project",
-			link: "https://github.com",
-		},
-
-		{
-			title: "Project 5",
-			description:
-				"Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
-			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png",
-			linkText: "View Project",
-			link: "https://github.com",
+			link: "https://github.com/kpeng66/lead-scoring-model",
 		},
 	],
 };
