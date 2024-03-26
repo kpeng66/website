@@ -66,6 +66,22 @@ function article_3() {
 	};
 }
 
-const myArticles = [article_1, article_2, article_3];
+function article_4() {
+	return {
+		date: "Mar 2024",
+		title: "Math is Art",
+		description:
+			"A look at how mathematics is more of an art than a science.",
+		link: "https://www.linkedin.com/posts/kevin-peng-421098176_ever-found-yourself-believing-you-were-skilled-activity-7175891295012356096-3Egd?utm_source=share&utm_medium=member_desktop",
+		style: ``,
+		body: (
+			<React.Fragment>
+				<h1>Content of article 2</h1>
+			</React.Fragment>
+		),
+	};
+}
+
+const myArticles = [article_4, article_1, article_2, article_3];
 
 export default myArticles;

@@ -30,6 +30,14 @@ const INFO = {
 
 	projects: [
 		{
+			title: "Pintos - User Programs",
+			description:
+				"An addendum to the Pintos OS that allows user programs to interact with the kernel via system calls.",
+			logo: "../multithreading.png",
+			linkText: "View Project",
+			link: "https://github.com/kpeng66/cs380l/tree/main/project-2",
+		},
+		{
 			title: "Pintos - Multithreading",
 			description:
 				"An elegant multithreading system that supports priority scheduling, donation, and more.",
