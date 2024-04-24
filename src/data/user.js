@@ -30,10 +30,26 @@ const INFO = {
 
 	projects: [
 		{
+			title: "DenDen Arcade",
+			description:
+				"An android app that connects friends and strangers alike through short, competitive drinking games.",
+			logo: "../denden.webp",
+			linkText: "View Project",
+			link: "https://github.com/kpeng66/denden-arcade-mobile",
+		},
+		{
+			title: "Pintos - Virtual Memory",
+			description:
+				"A further addendum to the Pintos OS that virtualizes main memory for user programs.",
+			logo: "../virtualmemory.png",
+			linkText: "View Project",
+			link: "https://github.com/kpeng66/cs380l/tree/main/project-3",
+		},
+		{
 			title: "Pintos - User Programs",
 			description:
 				"An addendum to the Pintos OS that allows user programs to interact with the kernel via system calls.",
-			logo: "../multithreading.png",
+			logo: "../userprograms.png",
 			linkText: "View Project",
 			link: "https://github.com/kpeng66/cs380l/tree/main/project-2",
 		},
@@ -53,25 +69,7 @@ const INFO = {
 			logo: "../shell.webp",
 			linkText: "View Project",
 			link: "https://github.com/kpeng66/cs380l/tree/main/project-0/aos_wish_shell",
-		},
-
-		{
-			title: "Denden Arcade MVP",
-			description:
-				"A multiplayer arcade platform for friends to play short, competitive minigames.",
-			logo: "../denden.webp",
-			linkText: "View Project",
-			link: "https://github.com/kpeng66/denden-arcade",
-		},
-
-		{
-			title: "Lead Conversion Model",
-			description:
-				"An end-to-end machine learning model that predicts lead conversion.",
-			logo: "../ml.webp",
-			linkText: "View Project",
-			link: "https://github.com/kpeng66/lead-scoring-model",
-		},
+		}
 	],
 };
 

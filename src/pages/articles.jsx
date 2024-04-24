@@ -1,4 +1,5 @@
 import React, { useEffect } from "react";
+import { Helmet } from "react-helmet";
 
 import NavBar from "../components/common/navBar";
 import Footer from "../components/common/footer";
@@ -20,6 +21,10 @@ const Articles = () => {
 
 	return (
 		<React.Fragment>
+			<Helmet>
+				<title>{`Writing | ${INFO.main.title}`}</title>
+			</Helmet>
+
 			<div className="page-content">
 				<NavBar active="articles" />
 				<div className="content-wrapper">

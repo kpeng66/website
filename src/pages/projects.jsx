@@ -21,7 +21,7 @@ const Projects = () => {
 	return (
 		<React.Fragment>
 			<Helmet>
-				<title>{`Projects | ${INFO.main.title}`}</title>
+				<title>{`About | ${INFO.main.title}`}</title>
 				<meta name="description" content={currentSEO.description} />
 				<meta
 					name="keywords"
@@ -47,7 +47,7 @@ const Projects = () => {
 						<br></br>
 						<br></br>
 
-						I currently work at Splashtop as a data engineer supporting Product and GTM teams. I previously worked as a data analyst at Salesforce.
+						I currently work at Splashtop as a data engineer supporting Product and GTM teams. I previously worked as a data analyst at Salesforce supporting the Account Development organization.
 
 						<br></br>
 						<br></br>
