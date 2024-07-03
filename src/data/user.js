@@ -14,7 +14,7 @@ const INFO = {
 	homepage: {
 		title: "I'm Kevin, a software engineer living in the SF Bay Area.",
 		description:
-			"I build full-stack web applications and end-to-end AI models. Currently, I am studying at UT Austin for my M.S. in Computer Science and working as a data engineer at Splashtop.",
+			"I care about climate change and building software to solve climate change. Currently, I am studying at UT Austin for my M.S. in Computer Science and working as an analyst at Slack.",
 	},
 
 	about: {
@@ -30,7 +30,15 @@ const INFO = {
 
 	projects: [
 		{
-			title: "DenDen Arcade",
+			title: "Clacks",
+			description:
+				"A physics simulation of a beautiful mathematical problem inspired by 3b1b.",
+			logo: "../clacks.webp",
+			linkText: "View Project",
+			link: "https://github.com/kpeng66/clacks",
+		},
+		{
+			title: "DenDen Arcade (Mobile)",
 			description:
 				"An android app that connects friends and strangers alike through short, competitive drinking games.",
 			logo: "../denden.webp",

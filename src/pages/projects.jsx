@@ -47,7 +47,7 @@ const Projects = () => {
 						<br></br>
 						<br></br>
 
-						I currently work at Splashtop as a data engineer supporting Product and GTM teams. I previously worked as a data analyst at Salesforce supporting the Account Development organization.
+						I currently work at Slack as an analyst on the Central team supporting GTM & Product Strategy.
 
 						<br></br>
 						<br></br>
@@ -56,8 +56,7 @@ const Projects = () => {
 						<br></br>
 						<br></br>
 
-						I grew up in the Bay Area. In my free time, I'm playing tennis, training muay thai, and snowboarding. I like to write and share my thoughts through LinkedIn posts.
-
+						I grew up in the Bay Area. In my free time, I'm playing tennis, snowboarding, and coding. I like to write and share my thoughts through LinkedIn posts.
 
 						</div>
 

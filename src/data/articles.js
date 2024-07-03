@@ -82,6 +82,22 @@ function article_4() {
 	};
 }
 
-const myArticles = [article_4, article_1, article_2, article_3];
+function article_5() {
+	return {
+		date: "Jun 2024",
+		title: "Clacks",
+		description:
+			"A mindboggling problem, and my attempt to justify it.",
+		link: "https://www.linkedin.com/feed/update/urn:li:activity:7204527482643873792/",
+		style: ``,
+		body: (
+			<React.Fragment>
+				<h1>Content of article 2</h1>
+			</React.Fragment>
+		),
+	};
+}
+
+const myArticles = [article_5, article_4, article_1, article_2, article_3,];
 
 export default myArticles;
